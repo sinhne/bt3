@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050845486180",
+    "project_id": "cayxanh-9bfff",
+    "storage_bucket": "cayxanh-9bfff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050845486180:android:2a90a1aec1d20ac0f01371",
+        "android_client_info": {
+          "package_name": "com.example.bt2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050845486180-tmsjm333bjoo4r6a55ghh4u9ntcqvvkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHABHfXb04sXtr_-iqsgfiVmh3tmJGAwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050845486180-tmsjm333bjoo4r6a55ghh4u9ntcqvvkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
